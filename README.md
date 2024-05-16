@@ -12,8 +12,9 @@ NewsFlow Renderer is a web application built using HTML5, CSS3, JavaScript, Boot
 
 ## Project Structure
 
-.
+```
 └── Newsflow-renderer/
+
     ├── style.css                    # Main stylesheet
     ├── index.js                     # Main JavaScript file
     ├── api.js                       # API integration functions (git ignore)
@@ -21,7 +22,7 @@ NewsFlow Renderer is a web application built using HTML5, CSS3, JavaScript, Boot
     ├── README.md                    # Project README file
     ├── LICENSE                      # License information
     └── .gitignore                   # Git ignore file
-
+```
 
 ## Getting Started
 
