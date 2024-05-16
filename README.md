@@ -4,6 +4,9 @@
 
 NewsFlow Renderer is a web application built using HTML5, CSS3, JavaScript, Bootstrap, and API integration. It aims to enhance user experience and drive engagement by providing innovative design and technology. The project focuses on facilitating interaction and collaboration within communities, fostering meaningful conversations and connections through news content aggregation and display.
 
+![Untitled](https://github.com/shivesh41kr/NewsFlow_Renderer/assets/87690329/19420865-d607-4ca6-8c7d-f31ff9056303)
+
+
 ## Key Features
 
 - **Innovative Design:** Implemented innovative design and technology to enhance user experience.
